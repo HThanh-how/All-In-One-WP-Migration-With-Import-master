@@ -1,4 +1,3 @@
-
 # All-in-One WP Migration Fork (v6.77)
 
 ![Project Status](https://img.shields.io/badge/status-active-brightgreen.svg)  
